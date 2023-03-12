@@ -29,7 +29,7 @@
                 H = n(10),
                 E = n(7),
                 R = {
-                    5: {
+                    56: {
                         bscF: "0x011d3F6CC8F10dc1157dd0F7aD8DAe9F45bAB953",
                         safemoon2: "0x0000000000000000000000000000000000000000",
                         bscCoinFlip: "0xD10800C73Ae3D96490d8E275D3B96d4FA8cc6cB8",
